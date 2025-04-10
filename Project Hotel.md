@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurat2025
-- 👀 I’m interested in lenguaje de programción python
+- 👀 I’m interested in lenguaje de programación python
 - 🌱 I’m currently learning Python and java 
 
 📫  Project Hotel
