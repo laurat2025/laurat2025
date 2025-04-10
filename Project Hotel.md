@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @laurat2025
 - 👀 I’m interested in lenguaje de programción python
 - 🌱 I’m currently learning Python and java 
-  - Proyect Hotel
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+📫  Project Hotel
+
 
 <!---
 laurat2025/laurat2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
